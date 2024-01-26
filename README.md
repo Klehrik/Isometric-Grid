@@ -13,5 +13,5 @@ I was however able to figure out how to draw a volumetric cube in any 3D angle u
 
 ### Controls
 
-A, D - Rotate left and right
+A, D - Rotate left and right  
 W, S - Rotate up and down
